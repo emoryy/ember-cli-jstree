@@ -41,8 +41,7 @@
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
     "ember-resolver": "^4.5.0",
-    "loader.js": "^4.0.10",
-    "phantomjs-prebuilt": "^2.1.12"
+    "loader.js": "^4.0.10"
   },
   "keywords": [
     "ember-addon",
